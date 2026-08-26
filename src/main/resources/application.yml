@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: PTIT_CNTT1_IT213_Session12_Bai4
